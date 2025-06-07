@@ -1,2 +1,2 @@
 # Data-Portfolio
-This is my repository for my projects
+This is my repository for data cleaning projects, primarily in Excel and SQL.
